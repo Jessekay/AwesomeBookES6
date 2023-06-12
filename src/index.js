@@ -1,6 +1,6 @@
 import { DateTime } from 'luxon';
 
-import Library from './assets/library.js';
+import Library from './modules/library.js';
 // eslint-disable-next-line max-classes-per-file
 
 // eslint-disable-next-line no-unused-vars

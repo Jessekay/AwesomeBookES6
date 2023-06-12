@@ -42,6 +42,15 @@
 - **[The homepage]**
 - [ ] **[JavaScript Functionality]**
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://jessekay.github.io/AwesomeBooksES6/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 💻 Getting Started <a name="getting-started"></a>
 
 ### Prerequisites

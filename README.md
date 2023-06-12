@@ -47,7 +47,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://jessekay.github.io/AwesomeBooksES6/)
+- [Live Demo Link](https://jessekay.github.io/AwesomeBookES6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -113,6 +113,16 @@ Give a star if you like this project!
 
 I would like to thank Microverse for allowing me to work on this project 
 It's a good experience, I can't express how I feel after learning and implementing what I learned in this Awesome Books project.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -16,7 +16,7 @@ const todayDate = () => {
 };
 todayDate();
 const library = new Library();
-library.displayBooks
+library.displayBooks();
 headerLinks.addEventListener('click', (e) => {
   e.preventDefault();
   const currentLink = e.target;
@@ -34,4 +34,3 @@ headerLinks.addEventListener('click', (e) => {
     addBook.classList.remove('show-add-menu');
   }
 });
-

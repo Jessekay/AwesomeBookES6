@@ -1,10 +1,5 @@
 import { DateTime } from 'luxon';
-
-import Library from './modules/library.js';
-// eslint-disable-next-line max-classes-per-file
-
-// eslint-disable-next-line no-unused-vars
-const library = new Library();
+import Library from './modules/library';
 
 const headerLinks = document.querySelector('#header');
 const popList = document.querySelector('#pop-list');
@@ -20,6 +15,8 @@ const todayDate = () => {
   showDateTime.textContent = date;
 };
 todayDate();
+const library = new Library();
+library.displayBooks
 headerLinks.addEventListener('click', (e) => {
   e.preventDefault();
   const currentLink = e.target;
@@ -37,3 +34,4 @@ headerLinks.addEventListener('click', (e) => {
     addBook.classList.remove('show-add-menu');
   }
 });
+
